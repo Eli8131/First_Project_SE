@@ -10,6 +10,6 @@ For this project, I am practicing xarray and attempting to recreate figures pres
 
 `Histogram_v2.0.ipynb`: This notebook completes the histogram from figure 17 in "A dataset of hourly sea surface temperature from drifting buoys" by converting the datetime[ns] object to float64 and generates the figure `density_histogram.pdf`.
 
-'fig_17_density.ipynb': This notebook is a cleaned up version of the code in 'first_project_xarray.ipynb' for generating figure 17. Each figure contained in figure 17 has its own pdf file generated in this notebook.
+`fig_17_density.ipynb`: This notebook is a cleaned up version of the code in `first_project_xarray.ipynb` for generating figure 17. Each figure contained in figure 17 has its own pdf file generated in this notebook.
 
-'fig_18_sst.ipynb': This notebook is a cleaned up version of the code in 'first_project_xarray.ipynb' and 'Histogram_v2.0.ipynb' for generating figure 18. Each figure contained in figure 18 has its own pdf file generated in this notebook.
+`fig_18_sst.ipynb`: This notebook is a cleaned up version of the code in `first_project_xarray.ipynb` and `Histogram_v2.0.ipynb` for generating figure 18. Each figure contained in figure 18 has its own pdf file generated in this notebook.
