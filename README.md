@@ -4,9 +4,9 @@ This repository, for now, will simply contain my first project.
 For this project, I am practicing xarray and attempting to recreate figures present in Shane's published work.
 
 # File List:
-`Histogram.ipynb`: this notebook is a partially-functioning first attempt at creating 'density_histogram.pdf'. Ran into runtime issues using datetime[ns] datatype, so I retried in 'Histogram_v2.0'
+`Histogram.ipynb`: This notebook is a partially-functioning first attempt at creating 'density_histogram.pdf'. Ran into runtime issues using datetime[ns] datatype, so I retried in 'Histogram_v2.0'
 
-`first_project_xarray.ipynb`: this notebook recreates figure 18 and the sst density map from figure 17 in "A dataset of hourly sea surface temperature from drifting buoys" using the gdp_v2.00.nc. 
+`first_project_xarray.ipynb`: This notebook recreates figure 18 and the sst density map from figure 17 in "A dataset of hourly sea surface temperature from drifting buoys" using the gdp_v2.00.nc. 
 
 `Histogram_v2.0.ipynb`: This notebook completes the histogram from figure 17 in "A dataset of hourly sea surface temperature from drifting buoys" by converting the datetime[ns] object to float64 and generates the figure `density_histogram.pdf`.
 
