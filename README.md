@@ -16,4 +16,4 @@ For this project, I am practicing xarray and attempting to recreate figures pres
 
 `Harmonics_Proj`: This folder contains all the files used to recreate the mean diurnal cycle harmonic amplitude and phase figures on slide 40 of *elipot-aoml2022.pdf* presentation.
 
-### All below folders/files are contained within 'Harmonic_proj' folder
+### All below folders/files are contained within 'Harmonics_Proj' folder
