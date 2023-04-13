@@ -13,3 +13,7 @@ For this project, I am practicing xarray and attempting to recreate figures pres
 `fig_17_density.ipynb`: This notebook is a cleaned up version of the code in `first_project_xarray.ipynb` for generating figure 17. Each figure contained in figure 17 has its own pdf file generated in this notebook.
 
 `fig_18_sst.ipynb`: This notebook is a cleaned up version of the code in `first_project_xarray.ipynb` and `Histogram_v2.0.ipynb` for generating figure 18. Each figure contained in figure 18 has its own pdf file generated in this notebook.
+
+`Harmonics_Proj`: This folder contains all the files used to recreate the mean diurnal cycle harmonic amplitude and phase figures on slide 40 of *elipot-aoml2022.pdf* presentation.
+
+### All below folders/files are contained within 'Harmonic_proj' folder
