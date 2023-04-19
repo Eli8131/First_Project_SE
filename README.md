@@ -39,7 +39,7 @@ For this project, I am practicing xarray and attempting to recreate figures pres
 
 `HarmonicsA3.ipynb`: This notebook loads the .txt files saved by `harmonicsA3_collection.ipynb` to create figures visualizing the third harmonic amplitude. This notebook is used to generate all files in `A3Plots` and `A3Plot.png` in the folder 'tot_amplitude_plots'.
 
-`animation.ipynb': This notebook loads all of the monthly analyses of a selected amplitude (a set of .png files in a folder) and outputs an animated .gif file. This notebook was used to create `A1animation.gif`, `A2animation.gif`, and `A3animation.gif` in the `amplitude_animated` folder.
+`animation.ipynb`: This notebook loads all of the monthly analyses of a selected amplitude (a set of .png files in a folder) and outputs an animated .gif file. This notebook was used to create `A1animation.gif`, `A2animation.gif`, and `A3animation.gif` in the `amplitude_animated` folder.
 
 `amplitude_animated`: This folder contains all of the animated figures which are .gifs of all of the monthly analyses figures of a certain harmonic amplitude. The following files are contained in this folder:
 
